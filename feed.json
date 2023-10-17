@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Les Jardins du Chateau",
+    "description": "",
+    "home_page_url": "https://frathom.github.io/lesjardinsduchateau",
+    "feed_url": "https://frathom.github.io/lesjardinsduchateau/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Franck"
+    },
+    "items": [
+        {
+            "id": "https://frathom.github.io/lesjardinsduchateau/test.html",
+            "url": "https://frathom.github.io/lesjardinsduchateau/test.html",
+            "title": "test",
+            "content_html": "\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "Franck"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-01-16T17:53:01+01:00",
+            "date_modified": "2023-01-16T17:53:01+01:00"
+        }
+    ]
+}

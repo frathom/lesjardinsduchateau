@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Les Jardins du Chateau</title>
+    <link href="https://frathom.github.io/lesjardinsduchateau/feed.xml" rel="self" />
+    <link href="https://frathom.github.io/lesjardinsduchateau" />
+    <updated>2023-01-16T17:53:01+01:00</updated>
+    <author>
+        <name>Franck</name>
+    </author>
+    <id>https://frathom.github.io/lesjardinsduchateau</id>
+
+    <entry>
+        <title>test</title>
+        <author>
+            <name>Franck</name>
+        </author>
+        <link href="https://frathom.github.io/lesjardinsduchateau/test.html"/>
+        <id>https://frathom.github.io/lesjardinsduchateau/test.html</id>
+
+        <updated>2023-01-16T17:53:01+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
