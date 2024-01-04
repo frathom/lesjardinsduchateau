@@ -11,8 +11,8 @@
     },
     "items": [
         {
-            "id": "https://frathom.github.io/lesjardinsduchateau/test.html",
-            "url": "https://frathom.github.io/lesjardinsduchateau/test.html",
+            "id": "https://frathom.github.io/lesjardinsduchateau/test/",
+            "url": "https://frathom.github.io/lesjardinsduchateau/test/",
             "title": "test",
             "content_html": "\n  <p>\n    \n  </p>",
             "author": {
