@@ -13,7 +13,7 @@
         {
             "id": "https://frathom.github.io/lesjardinsduchateau/test/",
             "url": "https://frathom.github.io/lesjardinsduchateau/test/",
-            "title": "test",
+            "title": "A propos de l&#x27;association",
             "content_html": "\n  <p>\n    \n  </p>",
             "author": {
                 "name": "Franck"
@@ -21,7 +21,7 @@
             "tags": [
             ],
             "date_published": "2023-01-16T17:53:01+01:00",
-            "date_modified": "2023-01-16T17:53:01+01:00"
+            "date_modified": "2024-01-04T14:37:32+01:00"
         }
     ]
 }
