@@ -3,12 +3,49 @@
     <title>Les Jardins du Chateau</title>
     <link href="https://frathom.github.io/lesjardinsduchateau/feed.xml" rel="self" />
     <link href="https://frathom.github.io/lesjardinsduchateau" />
-    <updated>2024-01-04T14:45:13+01:00</updated>
+    <updated>2024-01-04T15:03:22+01:00</updated>
     <author>
         <name>Franck</name>
     </author>
     <id>https://frathom.github.io/lesjardinsduchateau</id>
 
+    <entry>
+        <title>Devenir jardinier dans l&#x27;association</title>
+        <author>
+            <name>Franck</name>
+        </author>
+        <link href="https://frathom.github.io/lesjardinsduchateau/devenir-jardinier-dans-lassociation/"/>
+        <id>https://frathom.github.io/lesjardinsduchateau/devenir-jardinier-dans-lassociation/</id>
+            <category term="Vie de l&#x27;asso"/>
+
+        <updated>2024-01-04T15:03:22+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Le Grand Parc comprend 5 000 m2 de jardins partagés par une quinzaine d'associations, dont notre association 'Les Jardins du&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="bodytext">Le Grand Parc comprend 5 000 m<sup>2</sup> de jardins partagés par une quinzaine d'associations, dont notre association 'Les Jardins du Château'.</p>
+<p>Les nouveaux jardiniers de l'assocation sont issus d'une liste tenue en Mairie de Saint-Ouen et qui deviennent, par ordre d'acceptation de leur dossier en mairie, jardiniers de l'assocation des Jardins du Château.</p>
+<p>Les jardiniers sont adhérents de l'association et en acceptent les principes de fonctionnement : </p>
+<ul>
+<li>signature du réglement intérieur</li>
+<li>règlement de la cotisation annuelle (20 EUR en 2023)</li>
+<li>choix et travail d'une parcelle (8 à 10 m<sup style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-weight: var(--font-weight-normal);">2</sup><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> en moyenne, avec des formes et emplacements variables)</span></li>
+</ul>
+<p class="bodytext">Pour prétendre à une parcelle vous devez donc suivre la procédure détaillée par la Mairie de Saint-Ouen sur <a href="https://www.saint-ouen.fr/services-infos-pratiques/environnement-et-espaces-verts/118-le-grand-parc.html" target="_blank" rel="nofollow noopener noreferrer">cette page</a> et reproduite ci-dessous :</p>
+<blockquote>
+<ul>
+<li>être audonien/audonienne</li>
+<li>écrire/faire une lettre au nom de Mr le Maire  en demandant une parcelle au grand parc</li>
+<li>mettre les coordonnées pour être joignable (numéro et mail)</li>
+</ul>
+<p>Vous pouvez également envoyer ces informations par mail au cabinet du maire à l'adresse suivante : cabinetdumaire@mairie-saint-ouen.fr</p>
+</blockquote>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>A propos de l&#x27;association</title>
         <author>
