@@ -3,7 +3,7 @@
     <title>Les Jardins du Chateau</title>
     <link href="https://frathom.github.io/lesjardinsduchateau/feed.xml" rel="self" />
     <link href="https://frathom.github.io/lesjardinsduchateau" />
-    <updated>2024-01-30T12:53:37+01:00</updated>
+    <updated>2024-01-30T12:55:35+01:00</updated>
     <author>
         <name>Franck</name>
     </author>
@@ -17,14 +17,12 @@
         <link href="https://frathom.github.io/lesjardinsduchateau/cotisations/"/>
         <id>https://frathom.github.io/lesjardinsduchateau/cotisations/</id>
 
-        <updated>2024-01-30T12:42:17+01:00</updated>
+        <updated>2024-01-30T12:55:35+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                
-  <p>
-    <div class="post__iframe"><iframe loading="lazy" style="width: 100%; height: 750px; border-width: initial; border-style: none;" id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/les-jardins-du-chateau-saint-ouen/adhesions/cotisation-2024/widget"></iframe></div>
-  </p>
+                <div><div class="post__iframe"><iframe loading="lazy" id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/les-jardins-du-chateau-saint-ouen/adhesions/cotisation-2024/widget" style="width: 100%; height: 750px; border: none;"></iframe></div>
+</div>
             ]]>
         </content>
     </entry>
