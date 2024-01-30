@@ -3,7 +3,7 @@
     <title>Les Jardins du Chateau</title>
     <link href="https://frathom.github.io/lesjardinsduchateau/feed.xml" rel="self" />
     <link href="https://frathom.github.io/lesjardinsduchateau" />
-    <updated>2024-01-30T10:56:42+01:00</updated>
+    <updated>2024-01-30T12:24:44+01:00</updated>
     <author>
         <name>Franck</name>
     </author>
@@ -17,8 +17,9 @@
         <link href="https://frathom.github.io/lesjardinsduchateau/cotisation-2024/"/>
         <id>https://frathom.github.io/lesjardinsduchateau/cotisation-2024/</id>
         <media:content url="https://frathom.github.io/lesjardinsduchateau/media/posts/3/COTISATION-ANNUELLE.png" medium="image" />
+            <category term="Vie de l&#x27;association"/>
 
-        <updated>2024-01-30T10:48:02+01:00</updated>
+        <updated>2024-01-30T12:24:44+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -37,7 +38,7 @@
         <media:content url="https://frathom.github.io/lesjardinsduchateau/media/posts/2/jonathan-kemper-kYl3Yp2hwtQ-unsplash.jpg" medium="image" />
             <category term="Vie de l&#x27;association"/>
 
-        <updated>2024-01-30T10:55:57+01:00</updated>
+        <updated>2024-01-30T12:16:55+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://frathom.github.io/lesjardinsduchateau/media/posts/2/jonathan-kemper-kYl3Yp2hwtQ-unsplash.jpg" alt="" />
@@ -78,7 +79,7 @@
         <media:content url="https://frathom.github.io/lesjardinsduchateau/media/posts/1/0D43D3F722C74EA2B72ECB0BB5D9676F-1.jpg" medium="image" />
             <category term="Vie de l&#x27;association"/>
 
-        <updated>2024-01-30T10:56:42+01:00</updated>
+        <updated>2024-01-30T12:17:02+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[

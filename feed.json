@@ -20,9 +20,10 @@
                 "name": "Franck"
             },
             "tags": [
+                   "Vie de l&#x27;association"
             ],
             "date_published": "2024-01-30T10:26:24+01:00",
-            "date_modified": "2024-01-30T10:48:02+01:00"
+            "date_modified": "2024-01-30T12:24:44+01:00"
         },
         {
             "id": "https://frathom.github.io/lesjardinsduchateau/devenir-jardinier-dans-lassociation/",
@@ -38,7 +39,7 @@
                    "Vie de l&#x27;association"
             ],
             "date_published": "2024-01-04T15:03:10+01:00",
-            "date_modified": "2024-01-30T10:55:57+01:00"
+            "date_modified": "2024-01-30T12:16:55+01:00"
         },
         {
             "id": "https://frathom.github.io/lesjardinsduchateau/test/",
@@ -53,7 +54,7 @@
                    "Vie de l&#x27;association"
             ],
             "date_published": "2023-01-16T17:53:01+01:00",
-            "date_modified": "2024-01-30T10:56:42+01:00"
+            "date_modified": "2024-01-30T12:17:02+01:00"
         }
     ]
 }
