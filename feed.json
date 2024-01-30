@@ -14,14 +14,14 @@
             "id": "https://frathom.github.io/lesjardinsduchateau/cotisations/",
             "url": "https://frathom.github.io/lesjardinsduchateau/cotisations/",
             "title": "Cotisations",
-            "content_html": "<div><div class=\"post__iframe\"><iframe loading=\"lazy\" style=\"width: 100%; height: 750px; border: none;\" id=\"haWidget\" allowtransparency=\"true\" scrolling=\"auto\" src=\"https://www.helloasso.com/associations/les-jardins-du-chateau-saint-ouen/adhesions/cotisation-2024/widget\"></iframe></div></div>",
+            "content_html": "\n  <p>\n    <div class=\"post__iframe\"><iframe loading=\"lazy\" style=\"width: 100%; height: 750px; border-width: initial; border-style: none;\" id=\"haWidget\" allowtransparency=\"true\" scrolling=\"auto\" src=\"https://www.helloasso.com/associations/les-jardins-du-chateau-saint-ouen/adhesions/cotisation-2024/widget\"></iframe></div>\n  </p>",
             "author": {
                 "name": "Franck"
             },
             "tags": [
             ],
             "date_published": "2024-01-30T12:29:09+01:00",
-            "date_modified": "2024-01-30T12:31:35+01:00"
+            "date_modified": "2024-01-30T12:42:17+01:00"
         },
         {
             "id": "https://frathom.github.io/lesjardinsduchateau/cotisation-2024/",
@@ -36,7 +36,7 @@
                    "Vie de l&#x27;association"
             ],
             "date_published": "2024-01-30T10:26:24+01:00",
-            "date_modified": "2024-01-30T12:32:03+01:00"
+            "date_modified": "2024-01-30T12:41:25+01:00"
         },
         {
             "id": "https://frathom.github.io/lesjardinsduchateau/devenir-jardinier-dans-lassociation/",
