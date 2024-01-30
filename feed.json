@@ -59,7 +59,7 @@
             "url": "https://frathom.github.io/lesjardinsduchateau/test/",
             "title": "A propos de l&#x27;association",
             "content_html": "\n  <p>\n    \n  </p>",
-            "image": "https://frathom.github.io/lesjardinsduchateau/media/posts/1/0D43D3F722C74EA2B72ECB0BB5D9676F-1.jpg",
+            "image": "https://frathom.github.io/lesjardinsduchateau/media/posts/1/logo.png",
             "author": {
                 "name": "Franck"
             },
@@ -67,7 +67,7 @@
                    "Vie de l&#x27;association"
             ],
             "date_published": "2023-01-16T17:53:01+01:00",
-            "date_modified": "2024-01-30T12:17:02+01:00"
+            "date_modified": "2024-01-30T12:59:26+01:00"
         }
     ]
 }
