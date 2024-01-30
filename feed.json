@@ -11,19 +11,6 @@
     },
     "items": [
         {
-            "id": "https://frathom.github.io/lesjardinsduchateau/cotisations/",
-            "url": "https://frathom.github.io/lesjardinsduchateau/cotisations/",
-            "title": "Cotisations",
-            "content_html": "<div><div class=\"post__iframe\"><iframe loading=\"lazy\" id=\"haWidget\" allowtransparency=\"true\" scrolling=\"auto\" src=\"https://www.helloasso.com/associations/les-jardins-du-chateau-saint-ouen/adhesions/cotisation-2024/widget\" style=\"width: 100%; height: 750px; border: none;\"></iframe></div>\n</div>",
-            "author": {
-                "name": "Franck"
-            },
-            "tags": [
-            ],
-            "date_published": "2024-01-30T12:29:09+01:00",
-            "date_modified": "2024-01-30T12:55:35+01:00"
-        },
-        {
             "id": "https://frathom.github.io/lesjardinsduchateau/cotisation-2024/",
             "url": "https://frathom.github.io/lesjardinsduchateau/cotisation-2024/",
             "title": "Cotisation 2024",
