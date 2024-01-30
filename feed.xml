@@ -3,12 +3,28 @@
     <title>Les Jardins du Chateau</title>
     <link href="https://frathom.github.io/lesjardinsduchateau/feed.xml" rel="self" />
     <link href="https://frathom.github.io/lesjardinsduchateau" />
-    <updated>2024-01-30T12:24:44+01:00</updated>
+    <updated>2024-01-30T12:29:09+01:00</updated>
     <author>
         <name>Franck</name>
     </author>
     <id>https://frathom.github.io/lesjardinsduchateau</id>
 
+    <entry>
+        <title>Cotisations</title>
+        <author>
+            <name>Franck</name>
+        </author>
+        <link href="https://frathom.github.io/lesjardinsduchateau/cotisations/"/>
+        <id>https://frathom.github.io/lesjardinsduchateau/cotisations/</id>
+
+        <updated>2024-01-30T12:29:09+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <div><div class="post__iframe"><iframe loading="lazy" style="width: 100%; height: 750px; border: none;" id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/les-jardins-du-chateau-saint-ouen/adhesions/cotisation-2024/widget"></iframe></div></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Cotisation 2024</title>
         <author>
@@ -19,14 +35,9 @@
         <media:content url="https://frathom.github.io/lesjardinsduchateau/media/posts/3/COTISATION-ANNUELLE.png" medium="image" />
             <category term="Vie de l&#x27;association"/>
 
-        <updated>2024-01-30T12:24:44+01:00</updated>
+        <updated>2024-01-30T12:28:31+01:00</updated>
             <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://frathom.github.io/lesjardinsduchateau/media/posts/3/COTISATION-ANNUELLE.png" class="type:primaryImage" alt="" /></p>
-                <div class="post__iframe"><iframe loading="lazy" style="width: 100%; height: 750px; border: none;" id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/les-jardins-du-chateau-saint-ouen/adhesions/cotisation-2024/widget"></iframe></div>
-            ]]>
-        </content>
+        <content></content>
     </entry>
     <entry>
         <title>Devenir jardinier dans l&#x27;association</title>
