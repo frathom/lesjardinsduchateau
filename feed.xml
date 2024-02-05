@@ -3,7 +3,7 @@
     <title>Les Jardins du Chateau</title>
     <link href="https://frathom.github.io/lesjardinsduchateau/feed.xml" rel="self" />
     <link href="https://frathom.github.io/lesjardinsduchateau" />
-    <updated>2024-01-30T14:57:20+01:00</updated>
+    <updated>2024-02-05T14:30:06+01:00</updated>
     <author>
         <name>Franck</name>
     </author>
@@ -19,7 +19,7 @@
         <media:content url="https://frathom.github.io/lesjardinsduchateau/media/posts/3/COTISATION-ANNUELLE.png" medium="image" />
             <category term="Vie de l&#x27;association"/>
 
-        <updated>2024-01-30T14:57:20+01:00</updated>
+        <updated>2024-02-05T14:30:06+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://frathom.github.io/lesjardinsduchateau/media/posts/3/COTISATION-ANNUELLE.png" alt="" />
@@ -30,12 +30,15 @@
             <![CDATA[
                     <p><img src="https://frathom.github.io/lesjardinsduchateau/media/posts/3/COTISATION-ANNUELLE.png" class="type:primaryImage" alt="" /></p>
                 <p>Le montant de la cotisation est de 20 euros, vous pouvez vous acquitter de la cotisation au plus tard le 12 février 2024, soit:</p>
-<p>·       En Espèces, ou</p>
-<p>·       Par Téléphone via Lydia ou Paylib, ou</p>
-<p>·       Par Chèque à l'ordre de "Les Jardins du Château",</p>
-<p>·       Par Virement bancaire sur le compte de l'association</p>
+<ul>
+<li>En Espèces, ou</li>
+<li>Par Téléphone via Lydia ou Paylib, ou</li>
+<li>Par Chèque à l'ordre de "Les Jardins du Château",</li>
+<li>Par Virement bancaire sur le compte de l'association</li>
+</ul>
 <p><i>PI: - Merci de vous munir d’un justificatif de domicile en votre nom (moins de 3 mois) le jour de l’AG ou de l’envoyer par mail ou par courrier à l’adresse de l’association.</i></p>
-<p>Vous pouvez aussi utiliser le formulaire ci-dessous pour verser votre cotisation 2024.<div class="post__iframe"><iframe loading="lazy" style="width: 100%; height: 1200px; border: none;" id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/les-jardins-du-chateau-saint-ouen/adhesions/cotisation-2024/widget"></iframe></div>
+<p>Vous pouvez aussi utiliser le formulaire ci-dessous pour verser votre cotisation 2024.</p>
+<div class="post__iframe"><iframe loading="lazy" style="width: 100%; height: 1200px; border: none;" id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/les-jardins-du-chateau-saint-ouen/adhesions/cotisation-2024/widget"></iframe></div>
             ]]>
         </content>
     </entry>
