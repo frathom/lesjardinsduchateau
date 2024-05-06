@@ -21,9 +21,11 @@
                 "name": "Franck"
             },
             "tags": [
+                   "Evenements",
+                   "Calendrier"
             ],
             "date_published": "2024-05-03T16:21:49+02:00",
-            "date_modified": "2024-05-06T12:14:36+02:00"
+            "date_modified": "2024-05-06T12:15:20+02:00"
         },
         {
             "id": "https://www.lesjardinsduchateau.fr/cotisation-2024/",

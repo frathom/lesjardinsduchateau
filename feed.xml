@@ -3,7 +3,7 @@
     <title>Les Jardins du Chateau</title>
     <link href="https://www.lesjardinsduchateau.fr/feed.xml" rel="self" />
     <link href="https://www.lesjardinsduchateau.fr" />
-    <updated>2024-05-06T12:14:36+02:00</updated>
+    <updated>2024-05-06T12:15:20+02:00</updated>
     <author>
         <name>Franck</name>
     </author>
@@ -17,8 +17,10 @@
         <link href="https://www.lesjardinsduchateau.fr/pre-inscription-vente-bourse-de-la-nature-et-des-jardins/"/>
         <id>https://www.lesjardinsduchateau.fr/pre-inscription-vente-bourse-de-la-nature-et-des-jardins/</id>
         <media:content url="https://www.lesjardinsduchateau.fr/media/posts/5/Bourse-de-la-nature-et-des-jardins.png" medium="image" />
+            <category term="Evenements"/>
+            <category term="Calendrier"/>
 
-        <updated>2024-05-06T12:14:36+02:00</updated>
+        <updated>2024-05-06T12:15:20+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.lesjardinsduchateau.fr/media/posts/5/Bourse-de-la-nature-et-des-jardins.png" alt="" />
