@@ -3,7 +3,7 @@
     <title>Les Jardins du Chateau</title>
     <link href="https://www.lesjardinsduchateau.fr/feed.xml" rel="self" />
     <link href="https://www.lesjardinsduchateau.fr" />
-    <updated>2024-05-06T12:15:20+02:00</updated>
+    <updated>2024-05-15T10:22:14+02:00</updated>
     <author>
         <name>Franck</name>
     </author>
@@ -20,7 +20,7 @@
             <category term="Evenements"/>
             <category term="Calendrier"/>
 
-        <updated>2024-05-06T12:15:20+02:00</updated>
+        <updated>2024-05-15T10:22:14+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.lesjardinsduchateau.fr/media/posts/5/Bourse-de-la-nature-et-des-jardins.png" alt="" />
@@ -102,6 +102,18 @@
 
   <p>
     Les <b>inscriptions</b> des vendeurs auront lieu sur place à la Serre Wangari le 25 mai de 9h à 12h. Il faudra alors compléter la fiche d'inscription et la liste de dépôt des articles sur place.
+  </p>
+
+    <h2 id="encore-des-questions">
+      Encore des questions ?
+    </h2>
+
+  <p>
+    Envoyez nous un email à :&nbsp;
+  </p>
+
+  <p>
+    lesjardinsduchateaudestouen[at]gmail.com&nbsp;<br>
   </p>
             ]]>
         </content>
