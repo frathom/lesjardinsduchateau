@@ -3,7 +3,7 @@
     <title>Les Jardins du Chateau</title>
     <link href="https://www.lesjardinsduchateau.fr/feed.xml" rel="self" />
     <link href="https://www.lesjardinsduchateau.fr" />
-    <updated>2025-03-24T09:55:20+01:00</updated>
+    <updated>2025-03-24T09:56:17+01:00</updated>
     <author>
         <name>Franck</name>
     </author>
@@ -17,8 +17,9 @@
         <link href="https://www.lesjardinsduchateau.fr/cotisations-2025/"/>
         <id>https://www.lesjardinsduchateau.fr/cotisations-2025/</id>
         <media:content url="https://www.lesjardinsduchateau.fr/media/posts/6/COTISATION-ANNUELLE-2025.png" medium="image" />
+            <category term="Vie de l&#x27;association"/>
 
-        <updated>2025-03-24T09:55:20+01:00</updated>
+        <updated>2025-03-24T09:56:17+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.lesjardinsduchateau.fr/media/posts/6/COTISATION-ANNUELLE-2025.png" alt="" />
